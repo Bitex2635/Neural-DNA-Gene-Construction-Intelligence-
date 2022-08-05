@@ -5,5 +5,5 @@ The code following in the repository will display an advanced intelligence and a
 been working very hard on; continuing in the past repositories of technology production you will see the progress and advancement that 
 has been in the technology created in our code.
 @bitex2635 will like to introduce you to the very new and one of a kind Operating system built for the most
-intelligent and smartest users of them all a hands free link to data and information. 
+intelligent and smartest users of them all; ("A hands free link to data and information"). 
 
